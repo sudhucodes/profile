@@ -167,3 +167,7 @@ i3{
 .balancebtn i{
     color: #3498db;
 }
+
+a{
+    text-decoration: none;
+}
